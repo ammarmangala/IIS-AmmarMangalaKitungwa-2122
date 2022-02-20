@@ -1,0 +1,16 @@
+C:\Users\ammar\source\repos\ConsoleApp211\ConsoleApp211\bin\Debug\net5.0\ConsoleApp211.exe
+C:\Users\ammar\source\repos\ConsoleApp211\ConsoleApp211\bin\Debug\net5.0\ConsoleApp211.deps.json
+C:\Users\ammar\source\repos\ConsoleApp211\ConsoleApp211\bin\Debug\net5.0\ConsoleApp211.runtimeconfig.json
+C:\Users\ammar\source\repos\ConsoleApp211\ConsoleApp211\bin\Debug\net5.0\ConsoleApp211.runtimeconfig.dev.json
+C:\Users\ammar\source\repos\ConsoleApp211\ConsoleApp211\bin\Debug\net5.0\ConsoleApp211.dll
+C:\Users\ammar\source\repos\ConsoleApp211\ConsoleApp211\bin\Debug\net5.0\ref\ConsoleApp211.dll
+C:\Users\ammar\source\repos\ConsoleApp211\ConsoleApp211\bin\Debug\net5.0\ConsoleApp211.pdb
+C:\Users\ammar\source\repos\ConsoleApp211\ConsoleApp211\obj\Debug\net5.0\ConsoleApp211.csproj.AssemblyReference.cache
+C:\Users\ammar\source\repos\ConsoleApp211\ConsoleApp211\obj\Debug\net5.0\ConsoleApp211.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ammar\source\repos\ConsoleApp211\ConsoleApp211\obj\Debug\net5.0\ConsoleApp211.AssemblyInfoInputs.cache
+C:\Users\ammar\source\repos\ConsoleApp211\ConsoleApp211\obj\Debug\net5.0\ConsoleApp211.AssemblyInfo.cs
+C:\Users\ammar\source\repos\ConsoleApp211\ConsoleApp211\obj\Debug\net5.0\ConsoleApp211.csproj.CoreCompileInputs.cache
+C:\Users\ammar\source\repos\ConsoleApp211\ConsoleApp211\obj\Debug\net5.0\ConsoleApp211.dll
+C:\Users\ammar\source\repos\ConsoleApp211\ConsoleApp211\obj\Debug\net5.0\ref\ConsoleApp211.dll
+C:\Users\ammar\source\repos\ConsoleApp211\ConsoleApp211\obj\Debug\net5.0\ConsoleApp211.pdb
+C:\Users\ammar\source\repos\ConsoleApp211\ConsoleApp211\obj\Debug\net5.0\ConsoleApp211.genruntimeconfig.cache
