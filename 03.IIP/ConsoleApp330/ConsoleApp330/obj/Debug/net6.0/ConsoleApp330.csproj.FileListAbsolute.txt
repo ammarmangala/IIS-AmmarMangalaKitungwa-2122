@@ -1,0 +1,15 @@
+C:\Users\ammar\source\repos\ConsoleApp330\ConsoleApp330\bin\Debug\net6.0\ConsoleApp330.exe
+C:\Users\ammar\source\repos\ConsoleApp330\ConsoleApp330\bin\Debug\net6.0\ConsoleApp330.deps.json
+C:\Users\ammar\source\repos\ConsoleApp330\ConsoleApp330\bin\Debug\net6.0\ConsoleApp330.runtimeconfig.json
+C:\Users\ammar\source\repos\ConsoleApp330\ConsoleApp330\bin\Debug\net6.0\ConsoleApp330.dll
+C:\Users\ammar\source\repos\ConsoleApp330\ConsoleApp330\bin\Debug\net6.0\ref\ConsoleApp330.dll
+C:\Users\ammar\source\repos\ConsoleApp330\ConsoleApp330\bin\Debug\net6.0\ConsoleApp330.pdb
+C:\Users\ammar\source\repos\ConsoleApp330\ConsoleApp330\obj\Debug\net6.0\ConsoleApp330.csproj.AssemblyReference.cache
+C:\Users\ammar\source\repos\ConsoleApp330\ConsoleApp330\obj\Debug\net6.0\ConsoleApp330.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ammar\source\repos\ConsoleApp330\ConsoleApp330\obj\Debug\net6.0\ConsoleApp330.AssemblyInfoInputs.cache
+C:\Users\ammar\source\repos\ConsoleApp330\ConsoleApp330\obj\Debug\net6.0\ConsoleApp330.AssemblyInfo.cs
+C:\Users\ammar\source\repos\ConsoleApp330\ConsoleApp330\obj\Debug\net6.0\ConsoleApp330.csproj.CoreCompileInputs.cache
+C:\Users\ammar\source\repos\ConsoleApp330\ConsoleApp330\obj\Debug\net6.0\ConsoleApp330.dll
+C:\Users\ammar\source\repos\ConsoleApp330\ConsoleApp330\obj\Debug\net6.0\ref\ConsoleApp330.dll
+C:\Users\ammar\source\repos\ConsoleApp330\ConsoleApp330\obj\Debug\net6.0\ConsoleApp330.pdb
+C:\Users\ammar\source\repos\ConsoleApp330\ConsoleApp330\obj\Debug\net6.0\ConsoleApp330.genruntimeconfig.cache
