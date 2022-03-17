@@ -1,5 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+var naam = "Ammar";
+var postcode = "1180";
+var stad = "ukkel";
+string telNummer = "0477595959";
 
 Console.Write("Geef je naam op: ");
 string naam = Console.ReadLine();
@@ -8,7 +12,7 @@ Console.Write("Geef telefoonnummer op (GSM) : ");
 string telNummer = Console.ReadLine(); 
 
 Console.Write("Geef je postcode op: ");
-string postcode = Console.ReadLine();
+var postcode = Console.ReadLine();
 
 // EERSTE TEKEN
 string eersteTekenVanNaam = naam.Substring(0, 1);

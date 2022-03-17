@@ -1,0 +1,15 @@
+C:\Users\ammar\source\repos\ConsoleApp407\ConsoleApp407\bin\Debug\net6.0\ConsoleApp407.exe
+C:\Users\ammar\source\repos\ConsoleApp407\ConsoleApp407\bin\Debug\net6.0\ConsoleApp407.deps.json
+C:\Users\ammar\source\repos\ConsoleApp407\ConsoleApp407\bin\Debug\net6.0\ConsoleApp407.runtimeconfig.json
+C:\Users\ammar\source\repos\ConsoleApp407\ConsoleApp407\bin\Debug\net6.0\ConsoleApp407.dll
+C:\Users\ammar\source\repos\ConsoleApp407\ConsoleApp407\bin\Debug\net6.0\ref\ConsoleApp407.dll
+C:\Users\ammar\source\repos\ConsoleApp407\ConsoleApp407\bin\Debug\net6.0\ConsoleApp407.pdb
+C:\Users\ammar\source\repos\ConsoleApp407\ConsoleApp407\obj\Debug\net6.0\ConsoleApp407.csproj.AssemblyReference.cache
+C:\Users\ammar\source\repos\ConsoleApp407\ConsoleApp407\obj\Debug\net6.0\ConsoleApp407.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ammar\source\repos\ConsoleApp407\ConsoleApp407\obj\Debug\net6.0\ConsoleApp407.AssemblyInfoInputs.cache
+C:\Users\ammar\source\repos\ConsoleApp407\ConsoleApp407\obj\Debug\net6.0\ConsoleApp407.AssemblyInfo.cs
+C:\Users\ammar\source\repos\ConsoleApp407\ConsoleApp407\obj\Debug\net6.0\ConsoleApp407.csproj.CoreCompileInputs.cache
+C:\Users\ammar\source\repos\ConsoleApp407\ConsoleApp407\obj\Debug\net6.0\ConsoleApp407.dll
+C:\Users\ammar\source\repos\ConsoleApp407\ConsoleApp407\obj\Debug\net6.0\ref\ConsoleApp407.dll
+C:\Users\ammar\source\repos\ConsoleApp407\ConsoleApp407\obj\Debug\net6.0\ConsoleApp407.pdb
+C:\Users\ammar\source\repos\ConsoleApp407\ConsoleApp407\obj\Debug\net6.0\ConsoleApp407.genruntimeconfig.cache

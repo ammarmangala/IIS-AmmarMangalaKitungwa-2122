@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ammar\\source\\repos\\ConsoleApp330\\ConsoleApp330\\ConsoleApp330.csproj": {}
+    "C:\\Users\\ammar\\source\\repos\\ammarmangala\\IIS-AmmarMangalaKitungwa-2122\\03.IIP\\ConsoleApp330\\ConsoleApp330\\ConsoleApp330.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ammar\\source\\repos\\ConsoleApp330\\ConsoleApp330\\ConsoleApp330.csproj": {
+    "C:\\Users\\ammar\\source\\repos\\ammarmangala\\IIS-AmmarMangalaKitungwa-2122\\03.IIP\\ConsoleApp330\\ConsoleApp330\\ConsoleApp330.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ammar\\source\\repos\\ConsoleApp330\\ConsoleApp330\\ConsoleApp330.csproj",
+        "projectUniqueName": "C:\\Users\\ammar\\source\\repos\\ammarmangala\\IIS-AmmarMangalaKitungwa-2122\\03.IIP\\ConsoleApp330\\ConsoleApp330\\ConsoleApp330.csproj",
         "projectName": "ConsoleApp330",
-        "projectPath": "C:\\Users\\ammar\\source\\repos\\ConsoleApp330\\ConsoleApp330\\ConsoleApp330.csproj",
+        "projectPath": "C:\\Users\\ammar\\source\\repos\\ammarmangala\\IIS-AmmarMangalaKitungwa-2122\\03.IIP\\ConsoleApp330\\ConsoleApp330\\ConsoleApp330.csproj",
         "packagesPath": "C:\\Users\\ammar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ammar\\source\\repos\\ConsoleApp330\\ConsoleApp330\\obj\\",
+        "outputPath": "C:\\Users\\ammar\\source\\repos\\ammarmangala\\IIS-AmmarMangalaKitungwa-2122\\03.IIP\\ConsoleApp330\\ConsoleApp330\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ammar\\AppData\\Roaming\\NuGet\\NuGet.Config",
