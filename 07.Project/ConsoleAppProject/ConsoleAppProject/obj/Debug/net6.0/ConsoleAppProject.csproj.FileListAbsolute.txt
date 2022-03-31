@@ -1,0 +1,15 @@
+C:\Users\ammar\source\repos\ConsoleAppProject\ConsoleAppProject\bin\Debug\net6.0\ConsoleAppProject.exe
+C:\Users\ammar\source\repos\ConsoleAppProject\ConsoleAppProject\bin\Debug\net6.0\ConsoleAppProject.deps.json
+C:\Users\ammar\source\repos\ConsoleAppProject\ConsoleAppProject\bin\Debug\net6.0\ConsoleAppProject.runtimeconfig.json
+C:\Users\ammar\source\repos\ConsoleAppProject\ConsoleAppProject\bin\Debug\net6.0\ConsoleAppProject.dll
+C:\Users\ammar\source\repos\ConsoleAppProject\ConsoleAppProject\bin\Debug\net6.0\ref\ConsoleAppProject.dll
+C:\Users\ammar\source\repos\ConsoleAppProject\ConsoleAppProject\bin\Debug\net6.0\ConsoleAppProject.pdb
+C:\Users\ammar\source\repos\ConsoleAppProject\ConsoleAppProject\obj\Debug\net6.0\ConsoleAppProject.csproj.AssemblyReference.cache
+C:\Users\ammar\source\repos\ConsoleAppProject\ConsoleAppProject\obj\Debug\net6.0\ConsoleAppProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ammar\source\repos\ConsoleAppProject\ConsoleAppProject\obj\Debug\net6.0\ConsoleAppProject.AssemblyInfoInputs.cache
+C:\Users\ammar\source\repos\ConsoleAppProject\ConsoleAppProject\obj\Debug\net6.0\ConsoleAppProject.AssemblyInfo.cs
+C:\Users\ammar\source\repos\ConsoleAppProject\ConsoleAppProject\obj\Debug\net6.0\ConsoleAppProject.csproj.CoreCompileInputs.cache
+C:\Users\ammar\source\repos\ConsoleAppProject\ConsoleAppProject\obj\Debug\net6.0\ConsoleAppProject.dll
+C:\Users\ammar\source\repos\ConsoleAppProject\ConsoleAppProject\obj\Debug\net6.0\ref\ConsoleAppProject.dll
+C:\Users\ammar\source\repos\ConsoleAppProject\ConsoleAppProject\obj\Debug\net6.0\ConsoleAppProject.pdb
+C:\Users\ammar\source\repos\ConsoleAppProject\ConsoleAppProject\obj\Debug\net6.0\ConsoleAppProject.genruntimeconfig.cache
