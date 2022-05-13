@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ammar\\Documents\\Odisee Hogeschool\\Introductie in Programmeren [ORP38a]\\Project-Herkansing\\Console Project\\Retake\\Retake\\Retake.csproj",
+      "projectUniqueName": "C:\\Users\\ammar\\source\\repos\\ammarmangala\\IIS-AmmarMangalaKitungwa-2122\\07.Project\\Project-Herkansing\\Console Project\\Retake\\Retake\\Retake.csproj",
       "projectName": "Retake",
-      "projectPath": "C:\\Users\\ammar\\Documents\\Odisee Hogeschool\\Introductie in Programmeren [ORP38a]\\Project-Herkansing\\Console Project\\Retake\\Retake\\Retake.csproj",
+      "projectPath": "C:\\Users\\ammar\\source\\repos\\ammarmangala\\IIS-AmmarMangalaKitungwa-2122\\07.Project\\Project-Herkansing\\Console Project\\Retake\\Retake\\Retake.csproj",
       "packagesPath": "C:\\Users\\ammar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ammar\\Documents\\Odisee Hogeschool\\Introductie in Programmeren [ORP38a]\\Project-Herkansing\\Console Project\\Retake\\Retake\\obj\\",
+      "outputPath": "C:\\Users\\ammar\\source\\repos\\ammarmangala\\IIS-AmmarMangalaKitungwa-2122\\07.Project\\Project-Herkansing\\Console Project\\Retake\\Retake\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ammar\\AppData\\Roaming\\NuGet\\NuGet.Config",

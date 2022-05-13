@@ -21,7 +21,7 @@ namespace Retake
             List<student> ClassAverage = new List<student>();
             List<student> reTakes = new List<student>();
 
-            /*Hoeveel studenten zijn er in de klas?*/ 
+            /*Hoeveel studenten zijn er in de klas?*/
             int StudentNumber;
             Console.WriteLine("Hoeveel studenten zitten in de klas?");
             try
@@ -41,14 +41,14 @@ namespace Retake
 
                 Console.WriteLine(
                     $"\n\nHallo {report.teacher.Name}! Geniet van deze applicatie :-)" +
-                    $"\n\n\nClass {report.Class.Name}" +
+                    $"\n\n\nClass {ClassName}" +
                     $"\n\n-------\n\n"
                     );
 
                 Console.Write($"Nr\tName\t\t");
                 for (int i = 0; i < subjectsNumber; i++)
                 {
-                    Console.Write($"Subject {i + 1}\t\t");
+                    Console.Write($"Vak {i + 1}\t\t");
                 }
                 Console.WriteLine("\n");
                 for (int i = 0; i < StudentNumber; i++)
@@ -162,7 +162,7 @@ namespace Retake
 
                 Console.WriteLine(
                     $"\n\nHallo {report.teacher.Name}! Geniet van deze applicatie :-)" +
-                    $"\n\n\nClass {report.Class.Name}" +
+                    $"\n\n\nClass {ClassName}" +
                     $"\n\n-------\n\n"
                     );
 
@@ -276,7 +276,7 @@ namespace Retake
                 {
 
                     double StudentDegree = Math.Round((item.TotalDegree / (subjectsNumber * 20.0)) * 100);
-                    if (StudentDegree > 50 && StudentDegree < 70) // >50 and <70: voldoende
+                    if (StudentDegree > 50 && StudentDegree < 70) // >50 en <70: voldoende
                     {
                         Console.Write($"{item.Name}:\t");
                         Console.ForegroundColor = ConsoleColor.Green;
@@ -286,7 +286,7 @@ namespace Retake
                         PassStudents.Add(item);
                         Subjwarning(item.Name, item.subject);
                     }
-                    else if (StudentDegree > 70 && StudentDegree < 75)// >70 and <75: distinction
+                    else if (StudentDegree > 70 && StudentDegree < 75)// >70 en <75: distinction
                     {
                         Console.Write($"{item.Name}:\t");
                         Console.ForegroundColor = ConsoleColor.Green;
@@ -297,7 +297,7 @@ namespace Retake
                         distinctionStudents.Add(item);
                         Subjwarning(item.Name, item.subject);
                     }
-                    else if (StudentDegree > 75 && StudentDegree < 80)//>75 and <80: grote onderscheiding
+                    else if (StudentDegree > 75 && StudentDegree < 80)//>75 en <80: grote onderscheiding
                     {
                         Console.Write($"{item.Name}:\t");
                         Console.ForegroundColor = ConsoleColor.Green;
@@ -330,7 +330,7 @@ namespace Retake
 
                 }
 
-                Console.WriteLine("\n-------------------------        REPORTS    --------------------------\n");
+                Console.WriteLine("\n-------------------------        RAPPORT    --------------------------\n");
 
                 Console.WriteLine($"De gemiddelde score per vak:\n");
                 foreach (var item in report.subject)
@@ -636,7 +636,7 @@ namespace Retake
 
             static void MostReExams(List<student> students)
             {
-                Console.WriteLine($"Welk van heeft de meeste herexamens?\n");
+                Console.WriteLine($"Welk vak heeft de meeste herexamens?\n");
                 foreach (var s in students)
                 {
                     foreach (var item in s.subject)
@@ -659,7 +659,7 @@ namespace Retake
                         }
                     }
                 }
-                Console.WriteLine($"subject : {name}\n");
+                Console.WriteLine($"Vak : {name}\n");
             }
         }
     }
