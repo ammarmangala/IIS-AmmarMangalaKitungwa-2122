@@ -1,0 +1,32 @@
+E:\ITI intake\ITI\FL\Console Project\Retake\Retake\bin\Debug\net5.0\Retake.exe
+E:\ITI intake\ITI\FL\Console Project\Retake\Retake\bin\Debug\net5.0\Retake.deps.json
+E:\ITI intake\ITI\FL\Console Project\Retake\Retake\bin\Debug\net5.0\Retake.runtimeconfig.json
+E:\ITI intake\ITI\FL\Console Project\Retake\Retake\bin\Debug\net5.0\Retake.runtimeconfig.dev.json
+E:\ITI intake\ITI\FL\Console Project\Retake\Retake\bin\Debug\net5.0\Retake.dll
+E:\ITI intake\ITI\FL\Console Project\Retake\Retake\bin\Debug\net5.0\Retake.pdb
+E:\ITI intake\ITI\FL\Console Project\Retake\Retake\obj\Debug\net5.0\Retake.csproj.AssemblyReference.cache
+E:\ITI intake\ITI\FL\Console Project\Retake\Retake\obj\Debug\net5.0\Retake.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI intake\ITI\FL\Console Project\Retake\Retake\obj\Debug\net5.0\Retake.AssemblyInfoInputs.cache
+E:\ITI intake\ITI\FL\Console Project\Retake\Retake\obj\Debug\net5.0\Retake.AssemblyInfo.cs
+E:\ITI intake\ITI\FL\Console Project\Retake\Retake\obj\Debug\net5.0\Retake.csproj.CoreCompileInputs.cache
+E:\ITI intake\ITI\FL\Console Project\Retake\Retake\obj\Debug\net5.0\Retake.dll
+E:\ITI intake\ITI\FL\Console Project\Retake\Retake\obj\Debug\net5.0\refint\Retake.dll
+E:\ITI intake\ITI\FL\Console Project\Retake\Retake\obj\Debug\net5.0\Retake.pdb
+E:\ITI intake\ITI\FL\Console Project\Retake\Retake\obj\Debug\net5.0\Retake.genruntimeconfig.cache
+E:\ITI intake\ITI\FL\Console Project\Retake\Retake\obj\Debug\net5.0\ref\Retake.dll
+C:\Users\ammar\Documents\Odisee Hogeschool\Introductie in Programmeren [ORP38a]\Project-Herkansing\Console Project\Retake\Retake\bin\Debug\net5.0\Retake.exe
+C:\Users\ammar\Documents\Odisee Hogeschool\Introductie in Programmeren [ORP38a]\Project-Herkansing\Console Project\Retake\Retake\bin\Debug\net5.0\Retake.deps.json
+C:\Users\ammar\Documents\Odisee Hogeschool\Introductie in Programmeren [ORP38a]\Project-Herkansing\Console Project\Retake\Retake\bin\Debug\net5.0\Retake.runtimeconfig.json
+C:\Users\ammar\Documents\Odisee Hogeschool\Introductie in Programmeren [ORP38a]\Project-Herkansing\Console Project\Retake\Retake\bin\Debug\net5.0\Retake.runtimeconfig.dev.json
+C:\Users\ammar\Documents\Odisee Hogeschool\Introductie in Programmeren [ORP38a]\Project-Herkansing\Console Project\Retake\Retake\bin\Debug\net5.0\Retake.dll
+C:\Users\ammar\Documents\Odisee Hogeschool\Introductie in Programmeren [ORP38a]\Project-Herkansing\Console Project\Retake\Retake\bin\Debug\net5.0\Retake.pdb
+C:\Users\ammar\Documents\Odisee Hogeschool\Introductie in Programmeren [ORP38a]\Project-Herkansing\Console Project\Retake\Retake\obj\Debug\net5.0\Retake.csproj.AssemblyReference.cache
+C:\Users\ammar\Documents\Odisee Hogeschool\Introductie in Programmeren [ORP38a]\Project-Herkansing\Console Project\Retake\Retake\obj\Debug\net5.0\Retake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ammar\Documents\Odisee Hogeschool\Introductie in Programmeren [ORP38a]\Project-Herkansing\Console Project\Retake\Retake\obj\Debug\net5.0\Retake.AssemblyInfoInputs.cache
+C:\Users\ammar\Documents\Odisee Hogeschool\Introductie in Programmeren [ORP38a]\Project-Herkansing\Console Project\Retake\Retake\obj\Debug\net5.0\Retake.AssemblyInfo.cs
+C:\Users\ammar\Documents\Odisee Hogeschool\Introductie in Programmeren [ORP38a]\Project-Herkansing\Console Project\Retake\Retake\obj\Debug\net5.0\Retake.csproj.CoreCompileInputs.cache
+C:\Users\ammar\Documents\Odisee Hogeschool\Introductie in Programmeren [ORP38a]\Project-Herkansing\Console Project\Retake\Retake\obj\Debug\net5.0\Retake.dll
+C:\Users\ammar\Documents\Odisee Hogeschool\Introductie in Programmeren [ORP38a]\Project-Herkansing\Console Project\Retake\Retake\obj\Debug\net5.0\refint\Retake.dll
+C:\Users\ammar\Documents\Odisee Hogeschool\Introductie in Programmeren [ORP38a]\Project-Herkansing\Console Project\Retake\Retake\obj\Debug\net5.0\Retake.pdb
+C:\Users\ammar\Documents\Odisee Hogeschool\Introductie in Programmeren [ORP38a]\Project-Herkansing\Console Project\Retake\Retake\obj\Debug\net5.0\Retake.genruntimeconfig.cache
+C:\Users\ammar\Documents\Odisee Hogeschool\Introductie in Programmeren [ORP38a]\Project-Herkansing\Console Project\Retake\Retake\obj\Debug\net5.0\ref\Retake.dll
