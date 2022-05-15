@@ -35,7 +35,7 @@ namespace Retake
                 bool subjectsresult = int.TryParse(Console.ReadLine(), out subjectsNumber);
 
                 /*
-                 * Hallo Ammar! Enjoy this application :-)
+                 * Hallo Ammar! Geniet van deze applicatie :-)
                    Class 1GRA-ODISEE
                 */
 
@@ -577,7 +577,7 @@ namespace Retake
             static void PhilippeAverageScor(List<student> students)
             {
                 Console.WriteLine($"Welke is de gemiddelde score van Philippe?\n");
-                double sum = 0;
+                //double sum = 0;
                 foreach (var s in students)
                 {
                     if (s.Name == "Philippe")
