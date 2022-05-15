@@ -601,7 +601,7 @@ namespace Retake
 
             static void LowAverage(List<student> students)
             {
-                Console.WriteLine($"Welk vak heeft een klasgemiddeld van onder de 50%\n");
+                Console.WriteLine($"Welk vak heeft een klasgemiddelde van onder de 50%\n");
                 foreach (var s in students)
                 {
                     Console.WriteLine($"student : {s.Name}\n");
