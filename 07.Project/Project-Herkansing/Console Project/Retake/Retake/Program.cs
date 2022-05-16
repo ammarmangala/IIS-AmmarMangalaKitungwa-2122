@@ -41,7 +41,7 @@ namespace Retake
 
                 Console.WriteLine(
                     $"\n\nHallo {report.teacher.Name}! Geniet van deze applicatie :-)" +
-                    $"\n\n\nClass {ClassName}" +
+                    $"\n\n\nKlas {ClassName}" +
                     $"\n\n-------\n\n"
                     );
 
