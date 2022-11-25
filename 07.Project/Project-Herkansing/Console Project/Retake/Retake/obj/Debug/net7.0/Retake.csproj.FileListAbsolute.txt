@@ -1,0 +1,15 @@
+/Users/ammar-macbookpro-14/Documents/repositories/c-sharp/IIS-AmmarMangalaKitungwa-2122/07.Project/Project-Herkansing/Console Project/Retake/Retake/bin/Debug/net7.0/Retake
+/Users/ammar-macbookpro-14/Documents/repositories/c-sharp/IIS-AmmarMangalaKitungwa-2122/07.Project/Project-Herkansing/Console Project/Retake/Retake/bin/Debug/net7.0/Retake.deps.json
+/Users/ammar-macbookpro-14/Documents/repositories/c-sharp/IIS-AmmarMangalaKitungwa-2122/07.Project/Project-Herkansing/Console Project/Retake/Retake/bin/Debug/net7.0/Retake.runtimeconfig.json
+/Users/ammar-macbookpro-14/Documents/repositories/c-sharp/IIS-AmmarMangalaKitungwa-2122/07.Project/Project-Herkansing/Console Project/Retake/Retake/bin/Debug/net7.0/Retake.dll
+/Users/ammar-macbookpro-14/Documents/repositories/c-sharp/IIS-AmmarMangalaKitungwa-2122/07.Project/Project-Herkansing/Console Project/Retake/Retake/bin/Debug/net7.0/Retake.pdb
+/Users/ammar-macbookpro-14/Documents/repositories/c-sharp/IIS-AmmarMangalaKitungwa-2122/07.Project/Project-Herkansing/Console Project/Retake/Retake/obj/Debug/net7.0/Retake.csproj.AssemblyReference.cache
+/Users/ammar-macbookpro-14/Documents/repositories/c-sharp/IIS-AmmarMangalaKitungwa-2122/07.Project/Project-Herkansing/Console Project/Retake/Retake/obj/Debug/net7.0/Retake.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ammar-macbookpro-14/Documents/repositories/c-sharp/IIS-AmmarMangalaKitungwa-2122/07.Project/Project-Herkansing/Console Project/Retake/Retake/obj/Debug/net7.0/Retake.AssemblyInfoInputs.cache
+/Users/ammar-macbookpro-14/Documents/repositories/c-sharp/IIS-AmmarMangalaKitungwa-2122/07.Project/Project-Herkansing/Console Project/Retake/Retake/obj/Debug/net7.0/Retake.AssemblyInfo.cs
+/Users/ammar-macbookpro-14/Documents/repositories/c-sharp/IIS-AmmarMangalaKitungwa-2122/07.Project/Project-Herkansing/Console Project/Retake/Retake/obj/Debug/net7.0/Retake.csproj.CoreCompileInputs.cache
+/Users/ammar-macbookpro-14/Documents/repositories/c-sharp/IIS-AmmarMangalaKitungwa-2122/07.Project/Project-Herkansing/Console Project/Retake/Retake/obj/Debug/net7.0/Retake.dll
+/Users/ammar-macbookpro-14/Documents/repositories/c-sharp/IIS-AmmarMangalaKitungwa-2122/07.Project/Project-Herkansing/Console Project/Retake/Retake/obj/Debug/net7.0/refint/Retake.dll
+/Users/ammar-macbookpro-14/Documents/repositories/c-sharp/IIS-AmmarMangalaKitungwa-2122/07.Project/Project-Herkansing/Console Project/Retake/Retake/obj/Debug/net7.0/Retake.pdb
+/Users/ammar-macbookpro-14/Documents/repositories/c-sharp/IIS-AmmarMangalaKitungwa-2122/07.Project/Project-Herkansing/Console Project/Retake/Retake/obj/Debug/net7.0/Retake.genruntimeconfig.cache
+/Users/ammar-macbookpro-14/Documents/repositories/c-sharp/IIS-AmmarMangalaKitungwa-2122/07.Project/Project-Herkansing/Console Project/Retake/Retake/obj/Debug/net7.0/ref/Retake.dll

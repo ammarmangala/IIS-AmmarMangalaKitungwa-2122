@@ -103,6 +103,7 @@ namespace Retake
                 }
 
                 /*Geef de naam in van de vakken*/
+                
                 List<subject> courses = new List<subject>();
                 Console.WriteLine("Geef de naam in van de vakken\n");
                 for (int i = 0; i < subjectsNumber; i++)

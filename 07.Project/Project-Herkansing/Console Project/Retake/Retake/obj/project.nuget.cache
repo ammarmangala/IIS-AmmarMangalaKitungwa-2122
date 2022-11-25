@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AFkcANHJ4vJirJh5wAfQFZK5ax+Ps3ahKW0OWOCKAq0TTILnZKmIds771Nj6UAfUjTbof/jFdrqNgbvgDvAmGw==",
+  "dgSpecHash": "H8ZFZn8pxNy0mZCxej5sS7/5xuMuKt8LK6GwH8aogZMqItr4q3HYTC2mP+yzTv8eXRQMzT8ZBgqImKXxfM7b8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ammar\\source\\repos\\ammarmangala\\IIS-AmmarMangalaKitungwa-2122\\07.Project\\Project-Herkansing\\Console Project\\Retake\\Retake\\Retake.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\ammar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
-  ],
+  "projectFilePath": "/Users/ammar-macbookpro-14/Documents/repositories/c-sharp/IIS-AmmarMangalaKitungwa-2122/07.Project/Project-Herkansing/Console Project/Retake/Retake/Retake.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
